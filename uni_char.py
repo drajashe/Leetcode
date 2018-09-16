@@ -1,0 +1,1 @@
+#to return TRUE if its a string with unique charactersdef uni_char(str1):    leng= len(str1)    i =   1    while i < leng:        if(str1[i]==str1[i-1]):            print "False"            return False        i = i+ 1    print ('true')    #return True    return True"""def uni_set(s):    return len(set(s)==len(s)  """uni_char("ADSF")
