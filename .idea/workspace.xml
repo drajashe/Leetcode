@@ -1,45 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99d8f436-7ca7-41c0-a32d-120afebbc838" name="Default Changelist" comment="Deepti New CHeck">
-      <change afterPath="$PROJECT_DIR$/NPTEL_Assignments/Data Structures and Algorithms/1_GCD_2Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NPTEL_Assignments/Data Structures and Algorithms/2_GCD_improved.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NPTEL_Assignments/Data Structures and Algorithms/3_Euclid'sAlgorithmGCD.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NPTEL_Assignments/Siruseri_Singing_Championship.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NPTEL_Assignments/test_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Arrays/Anagram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Arrays/Array_pairs_sum_2_k.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Arrays/Find_the_Missing_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Arrays/Largest_continuous_Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Arrays/sentence_reversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Arrays/string_compression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Arrays/unique_char.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Big O and Intro to Algo/comparison_BigO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Graphs/Adjacency_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Graphs/BreadthFirstSearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Graphs/Depth_first_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Graphs/WordLadder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Graphs/dfs_all_possible_paths_bet_2_nodes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Graphs/recursive_dfs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Graphs/test_input_bfs.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Graphs/word.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Sequential search and Sorting/Binary_Search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Sequential search and Sorting/Bubble_Sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Sequential search and Sorting/insertion_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Sequential search and Sorting/insertion_sort_recurssive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Sequential search and Sorting/merge_sorrt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Sequential search and Sorting/selection_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Sequential search and Sorting/selection_sort_recursive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Sequential search and Sorting/shell_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/create_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/face_recognize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/haarcascade_frontalface_default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting and searching/insertion_sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sorting and searching/selction_sort.py" afterDir="false" />
+    <list default="true" id="99d8f436-7ca7-41c0-a32d-120afebbc838" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Recurrsion/Finding_words_in_list_in_given_strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Recurrsion/addtion_n_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Recurrsion/finding_sum_of_digits.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DS_1_anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/DS_1_anagram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tres/Implement_tree_using_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/Implement_tree_using_lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/queue.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,55 +19,63 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Graphs/Adjacency_list.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/project/datasets/deepti/7.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Graphs/WordLadder.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="60" column="8" selection-start-line="60" selection-start-column="8" selection-end-line="60" selection-end-column="8" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/project/datasets/deepti/8.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Graphs/Depth_first_search.py">
+        <entry file="file://$PROJECT_DIR$/project/datasets/deepti/9.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/datasets/deepti/10.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/datasets/deepti/11.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/datasets/deepti/12.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/datasets/deepti/13.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Recurrsion/addtion_n_num.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
-              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Recurrsion/finding_sum_of_digits.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Graphs/dfs_all_possible_paths_bet_2_nodes.py">
+        <entry file="file://$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Recurrsion/Finding_words_in_list_in_given_strings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="22" column="10" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Graphs/recursive_dfs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Graphs/word.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
+            <state relative-caret-position="19">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -166,6 +140,9 @@
         <option value="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Graphs/recursive_dfs.py" />
         <option value="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Graphs/Depth_first_search.py" />
         <option value="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Graphs/dfs_all_possible_paths_bet_2_nodes.py" />
+        <option value="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Recurrsion/addtion_n_num.py" />
+        <option value="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Recurrsion/finding_sum_of_digits.py" />
+        <option value="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Recurrsion/Finding_words_in_list_in_given_strings.py" />
       </list>
     </option>
   </component>
@@ -221,7 +198,7 @@
               <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="Udemy Data structures and Algorithms in Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Graphs" type="462c0819:PsiDirectoryNode" />
+              <item name="Recurrsion" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -254,28 +231,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dfs_all_possible_paths_bet_2_nodes">
-    <configuration name="Adjacency_list" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Graphs" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Graphs/Adjacency_list.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.finding_sum_of_digits">
     <configuration name="Depth_first_search" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -297,7 +253,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="WordLadder" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="addtion_n_num" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -305,11 +261,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Graphs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Recurrsion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Graphs/WordLadder.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Recurrsion/addtion_n_num.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -331,6 +287,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Graphs/dfs_all_possible_paths_bet_2_nodes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="finding_sum_of_digits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Recurrsion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Recurrsion/finding_sum_of_digits.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -362,11 +339,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.finding_sum_of_digits" />
+        <item itemvalue="Python.addtion_n_num" />
         <item itemvalue="Python.dfs_all_possible_paths_bet_2_nodes" />
         <item itemvalue="Python.recursive_dfs" />
         <item itemvalue="Python.Depth_first_search" />
-        <item itemvalue="Python.WordLadder" />
-        <item itemvalue="Python.Adjacency_list" />
       </list>
     </recent_temporary>
   </component>
@@ -388,19 +365,26 @@
       <option name="project" value="LOCAL" />
       <updated>1545994757841</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Deepti New CHeck">
+      <created>1553663834814</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553663834815</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49876544" visible="true" weight="0.24982308" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49876544" visible="true" weight="0.24982308" />
       <window_info id="Structure" order="1" sideWeight="0.50092083" side_tool="true" weight="0.24982308" />
       <window_info id="Favorites" order="2" sideWeight="0.5012346" side_tool="true" weight="0.24982308" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27901235" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27901235" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -494,36 +478,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/minimum_index_sum_of_two_lists.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Odd_even linkedlist.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/merge_sorted_linked_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Factorial_of_a_number_by_recursion.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sorting and searching/selction_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="23" selection-start-line="19" selection-start-column="8" selection-end-line="21" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Sequential search and Sorting/selection_sort_recursive.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Sequential search and Sorting/insertion_sort_recurssive.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -756,8 +710,68 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Graphs/dfs_all_possible_paths_bet_2_nodes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
+        <state relative-caret-position="418">
           <caret line="22" column="10" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/datasets/deepti/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/datasets/deepti/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/datasets/deepti/3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/datasets/deepti/4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/datasets/deepti/5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/datasets/deepti/6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/datasets/deepti/7.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/datasets/deepti/8.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/datasets/deepti/9.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/datasets/deepti/10.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/datasets/deepti/11.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/datasets/deepti/12.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/datasets/deepti/13.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Recurrsion/addtion_n_num.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Recurrsion/finding_sum_of_digits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Udemy Data structures and Algorithms in Python/Recurrsion/Finding_words_in_list_in_given_strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
         </state>
       </provider>
     </entry>
