@@ -1,1 +1,0 @@
-# Finding the largest Cotinuous Sumdef cont_sum(arr):    max_sum=cur_sum=arr[0]    if(len(arr)==0):        return 0    for num in arr[1:]:        #cur_sum+=num        cur_sum=max(cur_sum+num,num)        max_sum=max(cur_sum,max_sum)    print(max_sum)    return max_sumdef main():    cont_sum([1,-2,0,1,2,3,4])main()

@@ -1,2 +1,0 @@
-''' mangaldeepu===["mangal',"deepu"]'''
-def 
